@@ -1,0 +1,5 @@
+Hello this is a text file that I am working on.
+I have never actually touched Git before but I've heard of it.
+Not really sure what else to type here, but I need at least 3 sentences.
+If anyone else is reading this, Hello!
+Hello_World("print")
